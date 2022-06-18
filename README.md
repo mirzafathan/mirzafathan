@@ -6,7 +6,7 @@ Experienced in several projects as a Backend Engineer. Currently working on a Sp
 
 ### &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzafathan)](https://github.com/mirzafathan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzafathan&hide=pascal,html)](https://github.com/mirzafathan/github-readme-stats)
 
 [![Mirza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzafathan)](https://github.com/mirzafathan/github-readme-stats)
 
