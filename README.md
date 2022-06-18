@@ -7,6 +7,9 @@ Experienced in several projects as a Backend Engineer. Currently working on a Sp
 ### &#x1f4c8; GitHub Stats
 [![Mirza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mirzafathan)](https://github.com/mirzafathan/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzafathan)](https://github.com/mirzafathan/github-readme-stats)
+
+
 ### 💬 Contact
 Email: mirza.fathan@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/muhammad-mirza-fathan-76190b156/
